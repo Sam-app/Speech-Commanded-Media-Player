@@ -1,14 +1,13 @@
 # My-Media-Player for windows
 
--This  Demo is for College Assessment 
-- check your .Net famework  is compitable 
+-This  Demo made for College Assessment 
 
-To use speech command use those grammers
+To use speech command use those speech commands
  
  "open file " = > to open file
  
- "play next or next " => play next media  
+ "play next or next " => to play next song  
  
- "play previous or previous  " to play previous media
+ "play previous or previous  " to play previous song
  
- N.B there are  System.InvalidOperationException when you try use speech command before the current speech recognition is progressing
+ N.B there are  System.InvalidOperationException when you try use asynchronous speech command 
