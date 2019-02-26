@@ -10,4 +10,4 @@ To use speech command use those speech commands
  
  "play previous or previous  " to play previous song
  
- N.B there are  System.InvalidOperationException when you try use asynchronous speech command 
+ N.B there are  System.InvalidOperationException when you try use  speech command synchronously
