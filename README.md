@@ -2,7 +2,7 @@
 
 -This  Demo made for College Assessment 
 
-To use speech command use those speech commands
+To use app call those speech commands
  
  "open file " = > to open file
  
