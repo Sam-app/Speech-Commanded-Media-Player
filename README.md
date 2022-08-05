@@ -1,6 +1,3 @@
-# My-Media-Player for windows
-
--This  Demo made for College Assessment 
 
 To use the app, call those speech commands
  
